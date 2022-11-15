@@ -57,3 +57,4 @@ print(b)
 # replace 
 b[:,1,:] = [[9,9,9],[8,8]]
 print(b)
+
